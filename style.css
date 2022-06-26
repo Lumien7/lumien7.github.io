@@ -18,6 +18,19 @@ a {
     max-height: 100%; 
 }
 
+.links {
+    left: 0%;
+    position: fixed;
+    width: 100%;
+}
+
 .links h2 {
-  display: inline;
+    display: inline;
+}
+
+#footer {
+    bottom: 0%;
+    left: 0%;
+    position: fixed;
+    width: 100%;
 }
