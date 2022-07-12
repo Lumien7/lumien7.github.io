@@ -6,6 +6,10 @@ html, body {
     font-family: 'Marcellus';
 }
 
+h1 {
+    font-family: 'Marcellus SC';
+}
+
 a {
     color: magenta;
 }
